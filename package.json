@@ -1,0 +1,16 @@
+{
+    "homepage": "https://programmer1058.github.io/amin",
+    "private": true,
+    "name": "aminfinal",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
+    }
+}
